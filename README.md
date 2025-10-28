@@ -15,3 +15,5 @@ Additional Project Documents
 G3_Report_DL_Image_Classification_with_CNN.pdf: This comprehensive report provides a detailed overview of the project, including the approach, methodology, and a thorough analysis of the results. It discusses the performance of each model and the impact of fine-tuning.
 
 G3_Project_I_DL_presentation.pdf: This presentation provides a visual summary of the project's key findings. It covers the dataset selection, the architecture of each model, and the final results in a concise format.
+
+# Author - Abhishek Thummanapelli
