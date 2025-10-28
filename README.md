@@ -16,4 +16,4 @@ G3_Report_DL_Image_Classification_with_CNN.pdf: This comprehensive report provid
 
 G3_Project_I_DL_presentation.pdf: This presentation provides a visual summary of the project's key findings. It covers the dataset selection, the architecture of each model, and the final results in a concise format.
 
-# Author - Abhishek Thummanapelli
+- Abhishek Thummanapelli
